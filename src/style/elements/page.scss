@@ -1,5 +1,6 @@
 html,
 body {
+	// font: 16/1.5 Oswald;
 	font: #{$font-size}/#{$line-height} $font-stack;
 	background: map-get($neutral-colors, light);
 	-webkit-font-smoothing: antialiased;
